@@ -19,6 +19,6 @@ const styles = StyleSheet.create({
         color:"white",
         textAlign: 'center',
         fontSize: 20,
-        fontWeight: 'bold',
+        fontFamily: 'lora-bold',
     }
 });
